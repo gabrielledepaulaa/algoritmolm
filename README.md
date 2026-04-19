@@ -56,3 +56,15 @@ Principais tópicos que compõem esse tema:
 - Tomada de Decisão Inteligente: O storytelling reduz o tempo gasto discutindo a veracidade dos números e foca na análise estratégica e na ação
 - Ética e Integridade: Responsabilidade em apresentar dados de forma honesta, evitando manipulações como o "cherry picking" (escolha seletiva de dados favoráveis)
 - Cultura Orientada a Dados: Democratiza a informação, permitindo que públicos não técnicos compreendam e utilizem dados para decisões cotidianas
+
+## Notebook para exploração de dados e geração de conteúdos
+Por meio do link abaixo, é possível acessar o notebook desenvolvido na ferramenta NotebookLM, da Google. Nele, você poderá interagir diretamente com o conteúdo, realizar perguntas, explorar os materiais de referência e gerar diferentes tipos de outputs com apoio de inteligência artificial.
+
+A ferramenta permite:
+- Explorar os dados e conteúdos de forma interativa
+- Gerar resumos estruturados e insights relevantes
+- Criar apresentações automaticamente
+- Produzir conteúdos em diferentes formatos, como texto, áudio, vídeo e mapas mentais
+
+O acesso é gratuito e possibilita uma experiência prática de aprendizado e aplicação de conceitos de análise e comunicação de dados.
+🔗 Acesse o notebook: https://notebooklm.google.com/notebook/54765c32-9c0f-4fad-8711-86f8a5733a57
