@@ -28,10 +28,10 @@ O storytelling com dados é a prática de combinar análise de dados, visualiza�
 
 Principais tópicos que compõem esse tema:
 1. A Transição Fundamental: Exploratório vs. Explanatório
-Análise Exploratória: É a fase de busca por insights, onde o analista "abre 100 ostras" para encontrar algumas pérolas
-Análise Explanatória: É o momento da comunicação, onde se deve focar apenas nas "pérolas" (os insights relevantes) para não sobrecarregar o público
+- Análise Exploratória: É a fase de busca por insights, onde o analista "abre 100 ostras" para encontrar algumas pérolas
+- Análise Explanatória: É o momento da comunicação, onde se deve focar apenas nas "pérolas" (os insights relevantes) para não sobrecarregar o público
 
-2. O Processo de Storytelling em 6 Lições (Metodologia Knaflic)
+3. O Processo de Storytelling em 6 Lições (Metodologia Knaflic)
 - Entender o Contexto: Identificar quem é o público, o que ele precisa saber e como os dados apoiarão a ideia
 - Ferramentas como a Grande Ideia (uma frase concisa) e a História de 3 Minutos ajudam a focar no objetivo central
 - Escolher o Visual Adequado: Utilizar modelos que facilitem a leitura, como gráficos de linhas para tendências e barras para comparações, evitando gráficos de pizza e 3D
