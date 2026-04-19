@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=IjXRsmXGc3Q
 Artigo:
 1. https://ric.cps.sp.gov.br/bitstream/123456789/34243/1/gestao_empresarial_2025_1_ivan_oliveira_data_storytelling.pdf
 
+
+
 ## Visão Geral de Storytelling com Dados:
 O storytelling com dados é a prática de combinar análise de dados, visualização e narrativa para transformar informações complexas em mensagens claras, envolventes e acionáveis.
 
